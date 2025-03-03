@@ -16,7 +16,6 @@ Este relatório, desenvolvido em **Power BI**, tem como objetivo acompanhar e co
 
 ## Screenshots
 ![Relatório Controle OP - Detalhes da Produção][Relatório Controle OP.pdf](https://github.com/user-attachments/files/19059073/Relatorio.Controle.OP.pdf)
-()
 
 ## Como Executar
 1. Abra o arquivo `.pbix` no Power BI Desktop.
